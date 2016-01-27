@@ -1,0 +1,267 @@
+
+
+.container {
+	width: 960px;
+	font-family: Arial;
+}
+
+header {
+	padding: 15px 0px;
+	margin: 0px;
+	color: #FFF;
+	border-bottom: 1px solid #333;
+	background-color: #333;
+}
+
+.logo {
+	width: 80px;
+	height: 80px;
+	border: none;
+}
+
+nav ul {
+	list-style-type: none;
+	padding-top: 34px;
+	margin: 0px -15px 0px 0px;
+	float: right;
+	font-size: 14px;
+	line-height: 14px;
+	text-transform: uppercase;
+	white-space: nowrap;
+}
+
+nav li {
+	position: relative;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+}
+
+nav li:hover a {
+	background: #585858;
+}
+
+nav a {
+	text-decoration: none;
+	padding: 10px 15px;
+	color: #EEE;
+	text-shadow: 2px 2px 4px #000;
+}
+
+nav a:hover {
+	color: #FFF;
+}
+
+section {
+	padding: 30px 0px 50px;
+	margin: 0px;
+}
+
+.uno {
+	border-bottom: 1px solid #CECDCD;
+	background-color: #EEE;
+}
+
+.med {
+	width: 210px;
+	height: 210px;
+	border: 4px solid white;
+}
+
+.ccc {
+	width: 212px;
+	height: 212px;
+	border: 1px solid #CCC;
+	text-align: center;
+	color: #41709F;
+	font-weight: 800;
+}
+
+a {
+	text-decoration: none;
+	color: #41709F;
+}
+
+section a:hover {
+	color: #990000;
+}
+
+.alta{
+	color: black;
+	text-align: left;
+	font-size: 20px;
+}
+
+.alta a {
+	text-decoration: none;
+	color: #4472A1;
+	font-size: 11px;
+	font-weight: 800;
+}
+
+p {
+	color: #41709F;
+	text-align: center;
+	font-weight: 700;
+	text-decoration: none;
+	
+
+}
+
+.dos {
+	padding: 40px;
+}
+
+.little {
+	width: 110px;
+	height: 110px;
+	margin-bottom: 5px;
+}
+
+.border {
+	width: 118px;
+	height: 118px;
+	border: 1px solid #CCC;
+	padding: 3px 3px;
+	font-size: 12px;
+	text-align: center;
+	font-weight: 700;
+}
+
+.iz {
+	margin-left: -20px;
+}
+
+.ki {
+	margin-left: -40px;
+}
+
+.er {
+	margin-left: -60px;
+}
+
+.da {
+	margin-bottom: 50px;
+	margin-left: -80px;
+}
+
+.sus {
+	font-size: 16px;
+	margin-left: -120px;
+	color: #404040;
+	font-weight: 700;
+}
+
+.suscribe {
+	margin-left: -60px;
+	border-top: 2px solid #DDD;
+	padding-top: 30px;
+	margin-top: 5px;
+	width: 200px;
+}
+
+.itunes {
+	width: 15px;
+	height: 15px;
+	margin-right: 10px;
+}
+
+.rss {
+	width: 15px;
+	height: 15px;
+	margin-right: 10px;
+}
+
+.pocket {
+	width: 15px;
+	height: 15px;
+	margin-right: 10px;
+}
+
+.on {
+	width: 145px;
+}
+
+.en {
+	width: 165px;
+} 
+
+.in {
+	width: 130px;
+}
+
+.todos {
+	margin-bottom: 10px;
+	font-weight: normal;
+}
+
+.on-itunes {
+	width: 165px;
+}
+
+.cribe {
+	width: 226px;
+}
+
+.bottom {
+	border-bottom: 2px solid #DDD;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+
+.sus-2 {
+	text-align: left;
+	font-weight: normal;
+	width: 230px;
+	color: black;
+}
+
+.bajar-cinco {
+	margin-left: -60px;
+}
+
+footer {
+	margin-top: 30px;
+	background-color: #606060;
+	padding: 30px 0px;
+}
+
+.foot {
+	color: white;
+	font-size: 16px;
+	font-weight: normal;
+	text-align: left;
+	line-height: 30px;
+}
+
+.read {
+	color: #858D94;
+}
+
+.last {
+	list-style-type: none;
+	padding-top: 34px;
+	margin: 0px -15px 0px 0px;
+	float: right;
+	font-size: 13px;
+	line-height: 14px;
+	font-weight: 700;
+}
+
+.last li {
+	position: relative;
+	float: left;
+	margin: 10px;
+	padding: 0px;
+	right: 130px;
+}
+
+.last a {
+	color: #96999B;
+}
+
+.fin {
+	color: #969696;
+	font-size: 10px;
+	line-height: 70px;
+}
